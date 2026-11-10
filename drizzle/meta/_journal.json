@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794235800000,
+      "tag": "0000_guest_cards",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794235801000,
+      "tag": "0001_tavola_accounts",
+      "breakpoints": true
+    }
+  ]
+}
